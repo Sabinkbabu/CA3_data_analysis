@@ -1,3 +1,12 @@
+# Sabin K babu
+# L00144505
+# MSc in big data analytics
+# CA3 - Data Analysis
+#----------------------------------------------------------------------------------------------------------------------
+
+
+# Loading the data to R frame
+
 rainfall_data <- read.csv('rainfall_data.csv', header = TRUE)
 
 # Adding appropriate attribute titles
